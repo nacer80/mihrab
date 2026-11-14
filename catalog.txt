@@ -1,3 +1,3 @@
 mishary_afasy_cal_wbw.db|1|Mishary Alafasy California|مشاري العفاسي -كاليفورنيا|حفص عن عاصم
 ahmed_anwar_wbw.db|1|Ahmed Anwar|أحمد أنور|حفص عن عاصم
-ahmed_ajami_wbw.db|1|Ahmed Ajami|أحمد عجمي|حفص عن عاصم
+ahmed_ajami_wbw.db|1|Ahmed Ajami|أحمد العجمي|حفص عن عاصم
