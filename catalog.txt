@@ -1,2 +1,2 @@
-mishary_afasy_cal_wbw.db|1|Mishary Alafasy California|مشاري العفاسي-كاليفورنيا|حفص عن عاصم
+mishary_afasy_cal_wbw.db|1|Mishary Alafasy California|مشاري العفاسي -كاليفورنيا|حفص عن عاصم
 ahmed_anwar_wbw.db|1|Ahmed Anwar|أحمد أنور|حفص عن عاصم
